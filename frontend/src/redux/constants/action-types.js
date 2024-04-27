@@ -8,3 +8,4 @@ export const ActionTypes = {
   GET_ALL_STUDENT : "GET_ALL_STUDENT",
   GET_ALL_SUBJECT : "GET_ALL_SUBJECT"
 };
+//d
